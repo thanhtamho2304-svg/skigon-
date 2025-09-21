@@ -1,0 +1,5 @@
+{
+  "name": "Quizify AI",
+  "description": "An application that generates multiple-choice quizzes from an uploaded image of a book page or document. Users can take the quiz, check their answers, and receive explanations for each question.",
+  "requestFramePermissions": []
+}
